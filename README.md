@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
