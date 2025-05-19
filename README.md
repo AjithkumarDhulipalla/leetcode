@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -69,8 +70,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
