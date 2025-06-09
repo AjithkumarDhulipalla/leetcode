@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/0861-flipping-an-image) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjithkumarDhulipalla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
